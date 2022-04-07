@@ -70,3 +70,43 @@ for _ in range(num_testcase):
         except:
             break
     print()
+#
+# '2
+#
+# axe
+# axi
+# bxi
+# cxi
+# dxi
+# dli
+# dlx
+# dls
+# cls
+# clx
+# *
+# axe axi
+# axe clx
+# axi cls
+# axi dli
+# dli cls
+# cxi cls
+#
+# lip
+# mad
+# map
+# maple
+# may
+# pad
+# pip
+# pod
+# pop
+# sap
+# sip
+# slice
+# slick
+# spice
+# stick
+# stock
+# *
+# spice stock
+# may pod'
